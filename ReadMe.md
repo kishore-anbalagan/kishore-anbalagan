@@ -6,6 +6,8 @@
     />
   </a>
 </div>
+
+
 # 💫 About Me:
 Aspiring Artificial Intelligence and Data Science student with hands-on experience in machine learning, deep learning<br>and full-stack development. Proficient in building scalable, data-driven applications and applying AI techniques to<br>solve real-world problems while continuously strengthening technical expertise.
 
