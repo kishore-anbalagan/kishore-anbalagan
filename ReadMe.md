@@ -1,3 +1,11 @@
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img 
+      src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=1ACD55&center=true&vCenter=true&width=500&lines=Hi+I'm+Kishore+A" 
+      alt="Typing SVG" 
+    />
+  </a>
+</div>
 # 💫 About Me:
 Aspiring Artificial Intelligence and Data Science student with hands-on experience in machine learning, deep learning<br>and full-stack development. Proficient in building scalable, data-driven applications and applying AI techniques to<br>solve real-world problems while continuously strengthening technical expertise.
 
