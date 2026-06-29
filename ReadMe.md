@@ -51,14 +51,13 @@
   <img src="https://skillicons.dev/icons?i=postman,figma,vscode" />
 </p>
 
-## GitHub Stats
+## 📊 GitHub Statistics
 
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=kishore-anbalagan&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kishore-anbalagan&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kishore-anbalagan&theme=github_dark)
 
-<br>
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kishore-anbalagan&theme=github_dark)
+
+
 
 ## GitHub Streak
 
